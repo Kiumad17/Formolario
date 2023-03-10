@@ -42,22 +42,48 @@ input{
 }
 .a{
     box-shadow:0px 1px 0px  black;
-    width: 60%;
+    width: 50%;
 }
-.b{
+.b1{
     box-shadow:0px 1px 0px  black;
-    width: 74.4%;
+    width: 25%;
 }
-.c{
+.b2{
+    box-shadow:0px 1px 0px  black;
+    width: 25%;
+}
+.c1{
     
     box-shadow:0px 1px 0px  black;
-    width: 74.4%;
+    width: 43%;
+    
 }
-.d{
+.c2{
+    
     box-shadow:0px 1px 0px  black;
-    width: 65%;
+    width: 43%;
+}
+.d1{
+    box-shadow:0px 1px 0px  black;
+    width: 25%;
+}
+.d2{
+    box-shadow:0px 1px 0px  black;
+    width: 25%;
 }
 .e{
+    box-shadow:0px 1px 0px  black;
+    width: 64%;
+}
+.f{
+    box-shadow:0px 1px 0px  black;
+    width: 64%;
+}
+.g{
+    box-shadow:0px 1px 0px  black;
+    width: 64%;
+}
+.h{
     box-shadow:0px 1px 0px  black;
     width: 64%;
 }
@@ -65,5 +91,5 @@ input{
     border: none;
     font-family:Arial, Helvetica, sans-serif;
     position: absolute;
-    top: 55%;
+    top: 67%;
 }
